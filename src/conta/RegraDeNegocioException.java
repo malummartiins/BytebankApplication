@@ -4,4 +4,4 @@ public class RegraDeNegocioException extends RuntimeException {
         super(mensagem);
     }
 }
-//atualizando
+//final
