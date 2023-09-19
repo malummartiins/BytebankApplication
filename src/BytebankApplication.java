@@ -6,6 +6,8 @@ import conta.RegraDeNegocioException;
 
 import java.util.Scanner;
 
+//começo
+
 public class BytebankApplication {
 
     private static ContaService service = new ContaService();
