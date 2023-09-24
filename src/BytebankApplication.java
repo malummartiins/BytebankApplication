@@ -6,7 +6,7 @@ import conta.RegraDeNegocioException;
 
 import java.util.Scanner;
 
-//começo
+//
 
 public class BytebankApplication {
 
